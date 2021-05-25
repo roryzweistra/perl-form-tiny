@@ -437,7 +437,7 @@ While doing so, make sure not to override any of the Form::Tiny::Form symbols (M
 
 =head3 Form inheritance
 
-It is possible form Form::Tiny forms to inherit from one another, but the feature is experimental (meaning it does work, but is not tested enough and may not work properly for certain configurations).
+It is possible for Form::Tiny forms to inherit from one another, but the feature is experimental (meaning it does work, but is not tested enough and may not work properly for certain configurations).
 
 	# ParentForm.pm
 	package ParentForm;
